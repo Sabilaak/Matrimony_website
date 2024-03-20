@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.contact_main{
+  background-image: url("https://images.alphacoders.com/692/692039.jpg");
+}
+.btn_con{
+  position: absolute;
+  top: 60% !important;
+  justify-content: center;
+  left: 47% !important;
+}
+.navbarcont{
+   padding: 20px 0; 
+}
+.navhead{
+  color: blueviolet;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  left: 3px !important;
+  position: relative;
+  text-align: left;
+}
+.navimg{
+  margin-left: 45px !important;
+}
+.boxsw{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-top: 20px;
+  border-radius: 5px !important;
+  padding: 20px !important;
+  max-width: 70%;
+}
+.boxsw1{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-top: 20px;
+  border-radius: 5px !important;
+  padding: 20px !important;
+}
+.boxsw3{
+
+  margin-top: 20px;
+  border-radius: 5px !important;
+  padding: 10px !important;
+}
+.tableclss{
+  max-width: 70%;
+}
+.admin_form{
+  width: 500px;
+  height: 400px;
+  box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+  border-radius: 20px;
+}
+.user_data{
+  width: 1000px;
+  box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+  border-radius: 20px;
+  left: 10% !important;
+  position: relative;
+  
+}
